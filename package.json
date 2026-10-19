@@ -1,0 +1,1 @@
+{"name":"velour-boutique","version":"1.0.0","private":true,"description":"VELOUR fashion boutique demo","scripts":{"dev":"node preview.cjs","test":"node tests/regression.cjs"}}
